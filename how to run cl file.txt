@@ -1,0 +1,5 @@
+(* to run a program in cool language, first we have to set up a virtual machine, then create shared folder, then start the machine..
+Next, open the terminal . type cd to change directory. mkdir to make directory. To create a leafpad file, just type leafpad hello.cl
+.to compile a cl file, just type coolc hello.cl
+to run a cl file, type spim hello.s
+*)
